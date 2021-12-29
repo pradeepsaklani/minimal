@@ -1,6 +1,14 @@
-title: Minimal theme
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
+title: <p align="center">Pradeep Saklani</p>
+logo: /assets/img/Pradeep.jpg
+description: <p align="center">
+  <a href="https://www.linkedin.com/in/pradeep-saklani-89ba9935/">LinkedIn</a> |
+  <a href="https://github.com/pradeepsaklani">GitHub</a>
+  
+  <br>   
+  Working for Oracle Financial Services Software Ltd. for 9 years.
+  Undergoing Machine Learning and AI course from Upgrad in partnership with IITB.
+  <br>
+  </p>
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
